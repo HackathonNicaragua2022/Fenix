@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccesoController.cs" />
+    <Compile Include="Controllers\CategoriasController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -155,6 +156,26 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Content\css\categorias.css" />
+    <Content Include="Views\Home\categorias.html" />
+    <Content Include="Views\Home\images\1159776.png" />
+    <Content Include="Views\Home\images\148779.png" />
+    <Content Include="Views\Home\images\1828884-9bb20b8b.png" />
+    <Content Include="Views\Home\images\1828884.png" />
+    <Content Include="Views\Home\images\2420157.png" />
+    <Content Include="Views\Home\images\3756555.png" />
+    <Content Include="Views\Home\images\992704.png" />
+    <Content Include="Views\Home\images\ArrowLineRight.png" />
+    <Content Include="Views\Home\images\ArrowSquareRight-6b521c44.png" />
+    <Content Include="Views\Home\images\ArrowSquareRight.png" />
+    <Content Include="Views\Home\images\b1750015e73848d707281c381e304d4cf190b38a4724583ef81928e5c271d6c9448402526dd1f2bf14fd78249b2687cca05110c2978e25fea264e5_1280.png" />
+    <Content Include="Views\Home\images\default-image.jpg" />
+    <Content Include="Views\Home\images\Recurso1.png" />
+    <Content Include="Views\Home\index.html" />
+    <Content Include="Content\css\Inicio.css" />
+    <Content Include="Content\Js\jquery.js" />
+    <Content Include="Content\css\nicepage.css" />
+    <Content Include="Content\Js\nicepage.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -168,12 +189,16 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\asp.cshtml" />
     <Content Include="Views\Acceso\Login.cshtml" />
     <Content Include="Views\Acceso\Registrar.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Categorias.cshtml" />
+    <Content Include="Views\Categorias\Categorias.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Inicio-Categorias\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

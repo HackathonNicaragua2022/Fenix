@@ -19,7 +19,11 @@ namespace Login_MVC.Controllers
 
             return View();
         }
-         public ActionResult CerrarSesion()
+        public ActionResult Categorias()
+        {
+            return View("Categorias");
+        }
+        public ActionResult CerrarSesion()
         {
             Session["usuario"] = null;
 
