@@ -72,8 +72,8 @@ C:\Users\sealv\source\repos\Login MVC\Login MVC\bin\System.Web.WebPages.Razor.xm
 C:\Users\sealv\source\repos\Login MVC\Login MVC\bin\Newtonsoft.Json.xml
 C:\Users\sealv\source\repos\Login MVC\Login MVC\bin\Antlr3.Runtime.pdb
 C:\Users\sealv\source\repos\Login MVC\Login MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.csproj.AssemblyReference.cache
 C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.csproj.CoreCompileInputs.cache
 C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.csproj.CopyComplete
 C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.dll
 C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.pdb
+C:\Users\sealv\source\repos\Login MVC\Login MVC\obj\Debug\Login MVC.csproj.AssemblyReference.cache
